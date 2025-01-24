@@ -28,7 +28,7 @@ class HomeController extends Controller
 {
     public function index()
     {
-        $tool=tool::paginate(10);
+        $tool=tool::paginate(12);
         return view('home.userpage',compact('tool'));
     }
 

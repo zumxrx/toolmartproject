@@ -36,7 +36,7 @@
             <!-- Feature Card 4 -->
             <div class="feature_card">
                 <div class="icon_box">
-                    <i class="fa fa-truck"></i>
+                    
                 </div>
                 <h3>Delivery Available</h3>
                 <p>Convenient delivery and pickup services for larger equipment to your project site.</p>

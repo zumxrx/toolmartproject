@@ -12,7 +12,7 @@
                   <div class="img_container">
                      <div class="img-box">
                         <div class="img_box-inner">
-                           <img src="" alt="">
+                           <img src="images/default-profile.jpg" alt="">
                         </div>
                      </div>
                   </div>
@@ -34,7 +34,7 @@
                   <div class="img_container">
                      <div class="img-box">
                         <div class="img_box-inner">
-                           <img src="" alt="">
+                        <img src="images/default-profile.jpg" alt="">
                         </div>
                      </div>
                   </div>
@@ -56,7 +56,7 @@
                   <div class="img_container">
                      <div class="img-box">
                         <div class="img_box-inner">
-                           <img src="" alt="">
+                        <img src="images/default-profile.jpg" alt="">
                         </div>
                      </div>
                   </div>
